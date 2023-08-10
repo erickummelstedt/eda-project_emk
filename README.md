@@ -54,3 +54,10 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+```bash fro windows follow the below
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+python.exe -m pip install --upgrade pip
+```

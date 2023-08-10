@@ -33,7 +33,7 @@ This is a recommended workflow, especially for people who are on their beginning
 ### Understanding the Data
 
 - Download the data file "King_County_House_prices_dataset.csv" and save it in your data folder. Load the data into Panda's DataFrame.
-  \_Note: anything you put in the data folder will not be uploaded to github, as the data folder is mentioned in the .gitignore file*
+  Note: anything you put in the data folder will not be uploaded to github, as the data folder is mentioned in the .gitignore file*
 - Examine the descriptive statistics of the dataset.
 - Check for missing values. Are they concentrated in some column or in some observations?
 - Check which features are continuous or categorical.
